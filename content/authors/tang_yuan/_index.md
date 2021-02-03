@@ -16,10 +16,10 @@ role: Student keen in deep learning and software engineering
 # Short bio (displayed in user profile at end of posts)
 bio: My interests are conputer vision and natrual language processing reseach and their applications. 
 
-# Interests to show in About widget
-interests:
-- Medical Image Analysis
-- Natrual Language Processing
+# # Interests to show in About widget
+# interests:
+# - Medical Image Analysis
+# - Natrual Language Processing
 
 # Education to show in About widget
 education:
@@ -64,3 +64,5 @@ highlight_name: false
 ---
 
 Tang Yuan 唐媛 is currently a student at Nanyang Technological University, School of Electric and Electronic Engineering. She is specializing in computer engineering and data intelligence while minoring in Mathematics. Yuan has been researching on medical image analysis at A*STAR I2R, focusing on lung disease classification and segmentation on chest x-rays. She has also interned as NLP engineers. 
+
+As an engineer, Tang Yuan hopes to contribute in building connection between deep learning research and applications; to turn complexity into user-friendly products. 
