@@ -24,10 +24,6 @@ feature:
   icon: robot
   icon_pack: fas
   name: Deep Learning
-- description: 50%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
 - description: 10%
   icon: ice-cream
   icon_pack: fas

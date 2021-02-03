@@ -6,17 +6,17 @@ tags:
 # date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/naomity/chest-xray-segment"
+# external_link: "https://github.com/naomity/chest-xray-segment"
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
 #   focal_point: Smart
 
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links:
+- icon: github
+  icon_pack: fab
+  name: Github
+  url: https://github.com/naomity/chest-xray-segment
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""

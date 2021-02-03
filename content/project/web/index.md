@@ -6,17 +6,17 @@ tags:
 # date: "2020-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/naomity/food-order-webpage"
+# external_link: "https://github.com/naomity/food-order-webpage"
 
 image:
   caption: A sample order page
   focal_point: Smart
 
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+links:
+- icon: github
+  icon_pack: fab
+  name: Github
+  url: https://github.com/naomity/food-order-webpage
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
